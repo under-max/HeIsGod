@@ -11,6 +11,6 @@ public class PostResponse {
     @Builder
     public PostResponse(String title, String content) {
         this.title = title;
-        this.content = content;
+        this.content = content;q
     }
 }
